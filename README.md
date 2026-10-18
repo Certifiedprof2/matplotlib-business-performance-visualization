@@ -105,6 +105,20 @@ matplotlib-business-performance-visualization/
     └── business-performance-charts.png
 ```
 
+## Project Screenshots
+
+### Retail Sales Trend Analysis
+![Screenshot 1](screenshot/screenshot01.png)
+
+![Screenshot 2](screenshot/screenshot02.png)
+
+![Screenshot 3](screenshot/screenshot03.png)
+
+![Screenshot 4](screenshot/screenshot04.png)
+
+![Screenshot 5](screenshot/screenshot05.png)
+
+![Screenshot 6](screenshot/screenshot06.png)
 ## Learning Reflection
 
 This project helped me practise using Matplotlib to create and customize charts, arrange subplots, compare data series, and interpret business trends.
