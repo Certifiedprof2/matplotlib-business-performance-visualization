@@ -110,6 +110,7 @@ matplotlib-business-performance-visualization/
 ### Retail Sales Trend Analysis
 ![Screenshot 1](screenshot/screenshot01.png)
 
+### Customer Acquisition Comparison
 ![Screenshot 2](screenshot/screenshot02.png)
 
 ![Screenshot 3](screenshot/screenshot03.png)
